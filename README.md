@@ -5,5 +5,8 @@
 + numpy
 >pip install numpy
 
-+ opencv-python
++ opencv
 >pip install opencv-python
+
++ opencv-contrib
+>pip install opencv-contrib-python
